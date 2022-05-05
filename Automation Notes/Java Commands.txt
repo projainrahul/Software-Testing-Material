@@ -1,0 +1,69 @@
+Important URLS:-
+http://introcs.cs.princeton.edu/java/15inout/windows-cmd.html
+
+Maven:
+https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
+
+POM:
+http://www.tutorialspoint.com/maven/maven_pom.htm
+
+Working URL:
+http://www.tutorialspoint.com/maven/maven_environment_setup.htm
+
+http://www.seleniumhq.org/docs/03_webdriver.jsp#selenium-webdriver-api-commands-and-operations
+
+----------------------------------
+youtube >> maven
+https://www.youtube.com/watch?v=K5BQuouNyxk
+
+----------------------------------
+TestNG project setup
+
+1549: remote -> ru.stqa.selenium:webdriver-testng-archetype (Archetype for a Maven project intended to develop tests with Selenium WebDriver and TestNG)
+
+758: remote -> org.apache.maven.archetypes:maven-archetype-quickstart (An archetype which contains a sample Maven project.)
+
+
+----------------------------------
+Maven - Build & Test Project
+
+http://www.tutorialspoint.com/maven/maven_build_test_project.htm
+----------------------------------
+Maven Build Life Cycle
+http://www.tutorialspoint.com/maven/maven_build_life_cycle.htm
+
+----------------------------------
+Maven Plugins
+http://www.tutorialspoint.com/maven/maven_plugins.htm
+----------------------------------
+Maven Creating Java Project and Test
+http://www.tutorialspoint.com/maven/maven_creating_project.htm 
+and its next page
+----------------------------------
+
+For Sleneium webdriver and java
+http://www.softwaretestinghelp.com/webdriver-eclipse-installation-selenium-tutorial-9/
+
+---------------------------------
+
+Maven Life Cycle:-
+https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html
+
+---------------------------------
+To Do
+To Learn what is Maven Package
+Project >> right click >> Run as >> Maven Build >> In Goal write “Package”
+Maven package:-
+http://stackoverflow.com/questions/9422142/missing-the-maven-package-menu-entry-in-eclipse
+https://www.eclipse.org/forums/index.php/t/224163/
+https://bugs.eclipse.org/bugs/show_bug.cgi?id=354289
+chrome-extension://ninejjcohidippngpapiilnmkgllmakh
+C:\Program Files\Java\jdk1.7.0_67\
+
+Packages:
+http://seleniumhq.github.io/selenium/docs/api/java/index.html
+
+--------------------------------
+http://www.iluv2code.com/test-project-selenium2-testng-maven.html
+http://www.guru99.com/installing-selenium-webdriver.html
+http://toolsqa.com/java/maven/create-new-maven-project-eclipse/
